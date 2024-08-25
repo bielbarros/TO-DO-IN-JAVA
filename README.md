@@ -46,3 +46,15 @@ Fornece uma interface de linha de comando para o usuário interagir com o sistem
 * Marcar uma tarefa como concluída.
 * Remover uma tarefa.
 * Sair do programa.
+
+### Contato
+Para mais informações ou perguntas, você pode entrar em contato comigo através das seguintes plataformas:
+
+Email: gabrielbarrosg11@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/gabriel-sbarros/
+
+GitHub: https://github.com/bielbarros/
+
+### Licença
+Este projeto está licenciado sob a Licença MIT.
